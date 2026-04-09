@@ -102,7 +102,7 @@ const ContactPage = () => {
             <FaEnvelope className="text-blue-900" /> info@tietexpertise.com
           </p>
           <p className="text-lg md:text-xl flex items-center justify-center gap-2">
-            <FaPhoneAlt className="text-blue-900" /> +233 123 456 789
+            <FaPhoneAlt className="text-blue-900" /> +233 530 535 993
           </p>
         </div>
       </section>

@@ -14,7 +14,7 @@ import {
 } from "lucide-react";
 
 // Your phone number for WhatsApp instant booking
-const WHATSAPP_NUMBER = "233123456789";
+const WHATSAPP_NUMBER = "233530535993";
 
 // Programme data
 const programmes = [
